@@ -213,7 +213,7 @@ h1 {
 }
 
 .small-icon {
-    width: 4vw;
+    width: 2vw;
     border-radius: 20px;
 }
 
@@ -257,6 +257,8 @@ h1 {
         
     }
 
-    
+    .small-icon {
+        width: 5vw;
+        border-radius: 20px;
+    }
 }
-
